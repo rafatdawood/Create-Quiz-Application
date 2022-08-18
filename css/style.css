@@ -1,0 +1,103 @@
+.qContanir {
+  background-color: #ededed;
+  width: 500px;
+  margin: 30px auto;
+  padding: 20px
+}
+
+.qInfo {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+  margin-bottom: 10px;
+}
+
+.qArea {
+  background: #fff;
+  padding: 10px;
+}
+
+.answersArea {
+  background: #fff;
+  padding: 10px;
+
+}
+
+.answersArea .answer {
+  padding: 5px 10px;
+  background-color: #f9f9f9;
+}
+
+.answersArea .answer:not(:last-child) {
+  border-bottom: 1px solid #dfdfdf;
+}
+
+.answersArea .answer input[type="Radio"]:checked+label {
+  color: #0075ff;
+}
+
+.answersArea .answer label {
+  font-weight: bold;
+  cursor: pointer;
+  color: #777;
+}
+
+button {
+  width: 100%;
+  background-color: #0075ff;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.bullets {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 10px;
+}
+
+.bullets .spans {
+  display: flex;
+  flex: 1;
+}
+
+.bullets .spans span {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: #ddd;
+  margin-left: 5px;
+}
+
+.bullets .spans span.on {
+  background-color: #0075ff;
+}
+
+.result {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.result span {
+  font-weight: bold;
+}
+
+.result span.bad {
+  color: #dc0a0a;
+}
+
+.result span.good {
+  color: #009688;
+}
+
+.result span.perfect {
+  color: #0075ff;
+}

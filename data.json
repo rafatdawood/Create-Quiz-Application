@@ -1,0 +1,98 @@
+[
+  {
+    "question":"What is the scientific name of a butterfly?",
+    "answer_1":"Apis",
+    "answer_2":"Coleoptera",
+    "answer_3":"Formicidae",
+    "answer_4":"Rhopalocera",
+    "correct_answer":"Rhopalocera"
+  },
+  {
+    "question":"How hot is the surface of the sun?",
+    "answer_1":"1,233 K",
+    "answer_2":"5,778 K",
+    "answer_3":"12,130 K",
+    "answer_4":"101,300 K",
+    "correct_answer":"5,778 K"
+  },
+  {
+    "question":"Who are the actors in The Internship?",
+    "answer_1":"Ben Stiller, Jonah Hill",
+    "answer_2":"Courteney Cox, Matt LeBlanc",
+    "answer_3":"Kaley Cuoco, Jim Parsons",
+    "answer_4":"Vince Vaughn, Owen Wilson",
+    "correct_answer":"Vince Vaughn, Owen Wilson"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "answer_1": "Berlin",
+    "answer_2": "Buenos Aires",
+    "answer_3": "Madrid",
+    "answer_4": "San Juan",
+    "correct_answer": "Madrid"
+  },
+  {
+    "question": "What are the school colors of the University of Texas at Austin?",
+    "answer_1": "Black,Red",
+    "answer_2": "Blue, Orange",
+    "answer_3": "White, Burnt Orange",
+    "answer_4": "White, Old gold, Gold",
+    "correct_answer": "White, Burnt Orange"
+  },
+  {
+    "question": "What is 70 degrees Fahrenheit in Celsius?",
+    "answer_1": "18.8889",
+    "answer_2": "20",
+    "answer_3": "21.1111",
+    "answer_4": "158",
+    "correct_answer": "21.1111"
+  },
+  {
+    "question": "When was Mahatma Gandhi born?",
+    "answer_1": "October 2, 1869",
+    "answer_2": "December 15, 1872",
+    "answer_3": "July 18, 1918",
+    "answer_4": "January 15, 1929",
+    "correct_answer": "October 2, 1869"
+  },
+  {
+    "question": "How far is the moon from Earth?",
+    "answer_1": "7,918 miles (12,742 km)",
+    "answer_2": "86,881 miles (139,822 km)",
+    "answer_3": "238,400 miles (384,400 km)",
+    "answer_4": "35,980,000 miles (57,910,000 km)",
+    "correct_answer": "238,400 miles (384,400 km)"
+  },
+  {
+    "question": "What is 65 times 52?",
+    "answer_1": "117",
+    "answer_2": "3120",
+    "answer_3": "3380",
+    "answer_4": "3520",
+    "correct_answer": "3380"
+  },
+  {
+    "question": "How tall is Mount Everest?",
+    "answer_1": "6,683 ft (2,037 m)",
+    "answer_2": "7,918 ft (2,413 m)",
+    "answer_3": "19,341 ft (5,895 m)",
+    "answer_4": "29,029 ft (8,847 m)",
+    "correct_answer": "29,029 ft (8,847 m)"
+  },
+  {
+    "question": "When did The Avengers come out?",
+    "answer_1": "May 2, 2008",
+    "answer_2": "May 4, 2012",
+    "answer_3": "May 3, 2013",
+    "answer_4": "April 4, 2014",
+    "correct_answer": "May 4, 2012"
+  },
+  {
+    "question": "What is 48,879 in hexidecimal?",
+    "answer_1": "0x18C1",
+    "answer_2": "0xBEEF",
+    "answer_3": "0xDEAD",
+    "answer_4": "0x12D591",
+    "correct_answer": "0xBEEF"
+  }
+  ]
