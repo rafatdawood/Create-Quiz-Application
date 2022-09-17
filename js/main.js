@@ -13,8 +13,8 @@ let correctAnswer = 0;
 let countdownIntrval;
 async function getQuestions() {
   try {
-    let response = await fetch(https://rafatdawood.github.io/Create-Quiz-Application/data.json
-);
+    let response = await fetch("https://rafatdawood.github.io/Create-Quiz-Application/data.json
+");
     let data = await response.json();
     createBullets(data.length);
     addQuestion(data[currentIndex], data.length);
